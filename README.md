@@ -21,3 +21,9 @@ This project provides a **menu-driven command-line tool** to interact with Amazo
 - Python 3
 - Boto3 (AWS SDK for Python)
 - AWS IAM User with S3 access
+
+
+
+## 👩‍💻 Author
+
+**Divyanshi Goel**  
